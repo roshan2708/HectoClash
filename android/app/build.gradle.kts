@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    compileSdkVersion = 33
+    compileSdkVersion =33
 
     defaultConfig {
         applicationId = "com.geex.hectoclash"
