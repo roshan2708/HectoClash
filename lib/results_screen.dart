@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'game_screen.dart';
+import 'screens/game_screen.dart';
 
 class ResultsScreen extends StatefulWidget {
   @override

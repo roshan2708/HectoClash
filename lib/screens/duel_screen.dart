@@ -3,7 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import '../models/puzzle.dart';
-import 'results_screen.dart';
+import '../results_screen.dart';
 
 class DuelScreen extends StatefulWidget {
   final String gameId;

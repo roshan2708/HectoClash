@@ -7,25 +7,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:271515487957:android:5b0ec979f87a7fb1a25c5c",
-        "android_client_info": {
-          "package_name": "com.example.hecto_clash_1"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAm7JUidIoVu8AjEID4i_3D6Henml3bPAQ"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:271515487957:android:4cb1e3c107065d2fa25c5c",
         "android_client_info": {
           "package_name": "com.geex.hectoclash"
